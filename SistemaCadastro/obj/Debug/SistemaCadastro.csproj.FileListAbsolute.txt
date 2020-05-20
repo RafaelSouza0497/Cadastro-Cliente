@@ -1,0 +1,210 @@
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmClientes.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmContatos.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.dll
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.dll
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmTelaLogin.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmUsuarios.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\Form1.resx
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.resx
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.resx
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\Form1.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\Form1.Designer.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.Designer.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.Designer.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.dll
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.pdb
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmClientes.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmContatos.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmUsuarios.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmTelaLogin.resources
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.resx
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.resx
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.cs
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.Designer.cs
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.cs
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.Designer.cs
+C:\Users\x16443988\Documents\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmGames.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmGames.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Form1.resx
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.resx
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.resx
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Form1.cs
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Form1.Designer.cs
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.cs
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.Designer.cs
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.cs
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.Designer.cs
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.dll
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.dll
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Correios.Net.dll
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.pdb
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.pdb
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Correios.Net.pdb
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmClientes.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmContatos.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmGames.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmUsuarios.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmTelaLogin.resources
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Correios.Net.dll
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\Correios.Net.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.resx
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.resx
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmClientes.Designer.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmTelaLogin.Designer.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\Correios.Net.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\ClData.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\Correios.Net.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmClientes.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmContatos.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmGames.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmUsuarios.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmTelaLogin.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmCadastroUsuario.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.dll.config
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmNovaSenha.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmRecuperaSenha.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmMenuInicial.resx
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmMenuInicial.cs
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\bin\Debug\FrmMenuInicial.Designer.cs
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmMenuInicial.resources
+\\D42M10793999084\Rafael\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmListarClientes.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmMenuInicial.resx
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmMenuInicial.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\FrmMenuInicial.Designer.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\CLRegras.dll.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmCadastroUsuario.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmListarClientes.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmMenuInicial.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmNovaSenha.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\obj\Debug\SistemaCadastro.FrmRecuperaSenha.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\ClEntidades.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\SistemaCadastro\bin\Debug\ClEntidades.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmMenuInicial.resx
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmClientes.resx
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmTelaLogin.resx
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmMenuInicial.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmMenuInicial.Designer.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmClientes.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmClientes.Designer.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmTelaLogin.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmTelaLogin.Designer.cs
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClEntidades.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\Correios.Net.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClData.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClEntidades.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\CLRegras.dll.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\Correios.Net.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClData.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmCadastroUsuario.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmListarClientes.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmMenuInicial.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmClientes.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmContatos.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmGames.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmNovaSenha.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmUsuarios.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmTelaLogin.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmRecuperaSenha.resources
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmMenuInicial.resx
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmClientes.resx
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmTelaLogin.resx
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmMenuInicial.cs
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmMenuInicial.Designer.cs
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmClientes.cs
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmClientes.Designer.cs
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmTelaLogin.cs
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\FrmTelaLogin.Designer.cs
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClEntidades.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\CLRegras.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\Correios.Net.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClData.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClEntidades.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\CLRegras.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\CLRegras.dll.config
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\Correios.Net.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\bin\Debug\ClData.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmCadastroUsuario.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmListarClientes.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmMenuInicial.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmClientes.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmContatos.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmGames.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmNovaSenha.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmUsuarios.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmTelaLogin.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.FrmRecuperaSenha.resources
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CopyComplete
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\SistemaCadastro\obj\Debug\SistemaCadastro.pdb

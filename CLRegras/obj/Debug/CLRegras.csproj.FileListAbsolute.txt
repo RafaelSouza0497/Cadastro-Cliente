@@ -1,0 +1,67 @@
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\bin\Debug\CLRegras.dll
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\bin\Debug\CLRegras.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CoreCompileInputs.cache
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.dll
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\ProjetoRafael\CLRegras\bin\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\ProjetoRafael\CLRegras\bin\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csprojAssemblyReference.cache
+C:\Users\x16443988\Documents\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CoreCompileInputs.cache
+C:\Users\x16443988\Documents\ProjetoRafael\CLRegras\obj\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\ProjetoRafael\CLRegras\obj\Debug\CLRegras.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csprojAssemblyReference.cache
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\bin\Debug\CLRegras.dll
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\bin\Debug\CLRegras.pdb
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\bin\Debug\Correios.Net.dll
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\bin\Debug\Correios.Net.pdb
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csprojAssemblyReference.cache
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CoreCompileInputs.cache
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CopyComplete
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.dll
+D:\BkpProjetosEstagios\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\Correios.Net.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\Correios.Net.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CoreCompileInputs.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CopyComplete
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\obj\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\obj\Debug\CLRegras.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\bin\Debug\Correios.Net.dll
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\bin\Debug\Correios.Net.pdb
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csproj.CopyComplete
+\\D42M10793999084\Rafael\ProjetoRafael\CLRegras\bin\Debug\CLRegras.dll.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\CLRegras.dll.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\obj\Debug\CLRegras.csprojAssemblyReference.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\ClData.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\ClEntidades.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\ClData.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael\CLRegras\bin\Debug\ClEntidades.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\CLRegras.dll.config
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\CLRegras.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\ClData.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\ClEntidades.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\Correios.Net.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\ClData.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\ClEntidades.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\bin\Debug\Correios.Net.pdb
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.csprojAssemblyReference.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.csproj.CoreCompileInputs.cache
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.csproj.CopyComplete
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.dll
+C:\Users\x16443988\Documents\BackUp Projeto\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\CLRegras.dll.config
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\CLRegras.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\CLRegras.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\ClData.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\ClEntidades.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\Correios.Net.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\ClData.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\ClEntidades.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\bin\Debug\Correios.Net.pdb
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.csprojAssemblyReference.cache
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.csproj.CoreCompileInputs.cache
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.csproj.CopyComplete
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.dll
+D:\Rafael\Repositorio\Projetos Atualizados\ProjetoRafael-12-08\CLRegras\obj\Debug\CLRegras.pdb
